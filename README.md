@@ -1,3 +1,3 @@
 Mi practica de Git
 
-Cambio hecho en rama 1
+Cambio hecho en rama 2
